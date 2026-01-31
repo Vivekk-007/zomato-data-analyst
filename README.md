@@ -181,7 +181,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 Your Name
 - GitHub: [@Vivekk-007](https://github.com/Vivekk-007/zomato-data-analyst)
-- LinkedIn: [Your Profile](https://www.linkedin.com/in/vivek-kumar-63587a384/)
+- LinkedIn: [vivekk](https://www.linkedin.com/in/vivek-kumar-63587a384/)
 
 ## 🙏 Acknowledgments
 
