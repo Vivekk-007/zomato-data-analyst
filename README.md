@@ -51,7 +51,7 @@ Make sure you have Python 3.x installed on your system.
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/zomato-data-analysis.git
+git clone https://github.com/Vivekk-007/zomato-data-analyst
 cd zomato-data-analysis
 ```
 
